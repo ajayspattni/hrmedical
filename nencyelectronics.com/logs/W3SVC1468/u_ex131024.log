@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-24 04:13:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-24 04:13:34 W3SVC1468 76.72.165.79 GET /wp-login.php - 80 - 180.250.20.222 Mozilla/3.0+(compatible;+Indy+Library) 404 0 2 1405 258 828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-24 06:59:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-24 06:59:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 531
+2013-10-24 06:59:36 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/CamDetails.JPG - 80 - 199.30.20.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 182621 421 1453
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-24 09:41:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-24 09:41:18 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.99 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 1562
+2013-10-24 09:41:20 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 65.55.215.99 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 78650 410 2828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-24 15:09:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-24 15:09:53 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 953
+2013-10-24 15:09:54 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4634 234 2281
+2013-10-24 15:17:30 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-24 20:21:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-24 20:21:27 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.150 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 359
+2013-10-24 20:21:27 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 199.30.20.150 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 23981 413 453
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-24 21:02:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-24 21:02:37 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.66.174 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2907 431 1453

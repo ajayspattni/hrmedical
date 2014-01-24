@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-08 01:32:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-08 01:32:47 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.52.94 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 468
+2013-07-08 01:35:40 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 65.55.52.94 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 2783 291 1187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-08 02:54:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-08 02:54:41 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 468
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-08 10:13:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-08 10:13:26 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 50166 347 1093
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-08 11:55:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-08 11:55:47 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2913 441 2671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-08 16:58:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-08 16:58:47 W3SVC1468 76.72.165.79 GET / - 80 - 107.21.90.121 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) 200 0 0 19276 369 2312
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-08 23:22:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-08 23:22:06 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 343
+2013-07-08 23:22:06 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 140

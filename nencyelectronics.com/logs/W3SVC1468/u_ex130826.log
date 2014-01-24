@@ -1,0 +1,67 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 00:15:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 00:15:39 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 187 625
+2013-08-26 00:15:39 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 812
+2013-08-26 00:15:41 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 187 250
+2013-08-26 00:15:41 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 328
+2013-08-26 00:15:41 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 187 250
+2013-08-26 00:15:41 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 02:38:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 02:38:06 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 37.139.52.23 Mozilla/0.6+Beta+(Windows) 200 0 64 0 128 1250
+2013-08-26 02:38:06 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 37.139.52.23 Mozilla/0.6+Beta+(Windows) 200 0 64 0 128 234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 03:55:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 03:55:11 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 343
+2013-08-26 03:55:13 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4330 234 1437
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 06:17:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 06:17:19 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 968
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 07:49:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 07:49:35 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 195.242.218.133 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0) 200 0 64 0 162 3234
+2013-08-26 07:49:35 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 195.242.218.133 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0) 200 0 64 0 162 843
+2013-08-26 07:49:35 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 195.242.218.133 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0) 200 0 64 0 162 2000
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 08:14:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 08:14:27 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 2968
+2013-08-26 08:14:27 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 2093
+2013-08-26 08:14:27 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 1046
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 09:49:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 09:49:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 152 1218
+2013-08-26 09:49:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 152 2421
+2013-08-26 09:49:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 152 328
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 11:19:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 11:19:35 W3SVC1468 76.72.165.79 GET / - 80 - 54.227.157.172 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.3)+Gecko/20100401+Firefox/3.6.3+GTB6+(.NET+CLR+3.5.30729) 200 0 0 22608 198 1890
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 21:27:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 21:27:57 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+.NET+CLR+1.0.2914) 200 0 64 0 174 1312
+2013-08-26 21:27:57 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+.NET+CLR+1.0.2914) 200 0 64 0 174 2671
+2013-08-26 21:27:57 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+.NET+CLR+1.0.2914) 200 0 64 0 174 296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-26 22:08:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-26 22:08:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+T312461) 200 0 64 0 185 578
+2013-08-26 22:08:57 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+T312461) 200 0 64 0 185 265
+2013-08-26 22:08:57 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+T312461) 200 0 64 0 185 250

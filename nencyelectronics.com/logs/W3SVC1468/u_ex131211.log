@@ -1,0 +1,51 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 01:57:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 01:57:05 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 198.27.65.192 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 177 781
+2013-12-11 01:57:11 W3SVC1468 76.72.165.79 GET / - 80 - 198.27.65.192 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0 4624 167 4125
+2013-12-11 01:57:13 W3SVC1468 76.72.165.79 GET /favicon.ico - 80 - 198.27.65.192 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 178 15
+2013-12-11 01:57:16 W3SVC1468 76.72.165.79 GET /apple-touch-icon.png - 80 - 198.27.65.192 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 187 0
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 07:01:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 07:01:50 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 404 0 2 1405 193 1078
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 08:09:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 08:09:39 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 301 1156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 12:06:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 12:06:29 W3SVC1468 76.72.165.79 GET /google7b99f437ec5c4ee4.html - 80 - 72.14.199.174 Mozilla/5.0+(compatible;+Google-Site-Verification/1.0) 200 0 0 455 209 1562
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 15:07:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 15:07:59 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 578
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 18:01:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 18:01:03 W3SVC1468 76.72.165.79 GET / - 80 - 180.76.5.29 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4642 222 2937
+2013-12-11 18:03:22 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.76.90 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 15
+2013-12-11 18:03:23 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.76.90 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4623 365 46
+2013-12-11 18:08:54 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.76.90 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 140
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 20:24:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 20:24:26 W3SVC1468 76.72.165.79 GET / - 80 - 192.241.146.199 Wget/1.13.4+(linux-gnu) 200 0 0 19030 120 1781
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 20:54:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 20:54:44 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.76.90 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2908 431 437
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-11 23:17:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-11 23:17:23 W3SVC1468 76.72.165.79 GET /index.aspx - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4622 278 640

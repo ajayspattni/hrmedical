@@ -1,0 +1,74 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 04:10:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 04:10:46 W3SVC1468 76.72.165.79 GET /google7b99f437ec5c4ee4.html - 80 - 72.14.199.174 Mozilla/5.0+(compatible;+Google-Site-Verification/1.0) 200 0 0 455 209 421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 11:08:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 11:08:43 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 937
+2013-07-13 11:08:43 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 11:44:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 11:44:55 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 274 312
+2013-07-13 11:44:55 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 247 62
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 16:39:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 16:39:13 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4636 375 2468
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 17:12:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 17:12:38 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 24305 276 671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 19:28:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 19:28:46 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 360 609
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET / - 80 - 50.31.96.6 intelium_bot 200 0 0 4352 339 1765
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink1 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink2 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /index.aspx - 80 - 50.31.96.6 intelium_bot 200 0 0 4352 360 46
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink3 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink4 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink5 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink6 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink7 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink8 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink9 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 412 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink10 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink11 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink12 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink13 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink14 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink15 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink16 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink17 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink18 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:48 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink19 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink20 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink21 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink22 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink23 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink24 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink25 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink26 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink27 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink28 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 31
+2013-07-13 19:28:49 W3SVC1468 76.72.165.79 GET /ctl00_ContentPlaceHolder1_HyperLink29 - 80 - 50.31.96.6 intelium_bot 404 0 2 1424 414 15
+2013-07-13 19:43:03 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2911 441 156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 21:56:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 21:56:39 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 153719 261 1078
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-13 22:13:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-13 22:13:23 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 78

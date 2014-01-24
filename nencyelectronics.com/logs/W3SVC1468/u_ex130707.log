@@ -1,0 +1,78 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 01:44:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 01:44:11 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 656
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 02:10:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 02:10:02 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 109270 261 796
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 03:23:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 03:23:14 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4333 234 1625
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 04:46:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 04:46:02 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 50166 347 812
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 08:03:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 08:03:49 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4634 375 1640
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 09:12:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 09:12:09 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2910 441 1875
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 13:51:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 13:51:21 W3SVC1468 76.72.165.79 GET / - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 19256 196 1968
+2013-07-07 13:51:36 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 50166 312 484
+2013-07-07 13:51:37 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 57866 226 406
+2013-07-07 13:51:37 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 52226 224 343
+2013-07-07 13:51:38 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 47923 222 453
+2013-07-07 13:51:38 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 41444 222 375
+2013-07-07 13:51:39 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 109270 226 640
+2013-07-07 13:51:39 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 117048 226 687
+2013-07-07 13:51:41 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 153719 226 812
+2013-07-07 13:51:41 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 98881 226 625
+2013-07-07 13:51:42 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 50166 312 359
+2013-07-07 13:51:42 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 57866 226 328
+2013-07-07 13:51:42 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 52226 224 281
+2013-07-07 13:51:44 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 47923 222 281
+2013-07-07 13:51:44 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 41444 222 218
+2013-07-07 13:51:44 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 109270 226 515
+2013-07-07 13:51:45 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 117048 226 593
+2013-07-07 13:51:45 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 153719 226 718
+2013-07-07 13:51:46 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 98881 226 468
+2013-07-07 13:51:46 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 14648 209 187
+2013-07-07 13:51:48 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 93321 214 578
+2013-07-07 13:51:48 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 22087 232 468
+2013-07-07 13:51:48 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 24033 239 265
+2013-07-07 13:51:49 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 24305 241 250
+2013-07-07 13:51:49 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 19285 234 296
+2013-07-07 13:51:49 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 17712 227 187
+2013-07-07 13:51:50 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 20907 228 343
+2013-07-07 13:51:50 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 25455 232 234
+2013-07-07 13:51:50 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 22969 234 203
+2013-07-07 13:51:50 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 20541 230 265
+2013-07-07 13:51:51 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 28199 224 250
+2013-07-07 13:51:51 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 23962 225 265
+2013-07-07 13:51:51 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 22044 240 218
+2013-07-07 13:51:52 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 65.181.123.23 AdnormCrawler+www.adnorm.com/crawler 200 0 0 78631 222 671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 17:57:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 17:57:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-07 21:20:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-07 21:20:38 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4336 268 4468

@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-06 03:13:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-06 03:13:39 W3SVC1468 76.72.165.79 GET / - 80 - 173.254.216.68 - 200 0 0 19275 109 1984
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-06 04:48:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-06 04:48:22 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.88 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 390
+2013-07-06 04:48:24 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 65.55.215.88 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 14667 397 500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-06 06:18:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-06 06:18:17 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 20907 263 828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-06 17:15:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-06 17:15:21 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 671
+2013-07-06 17:15:21 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 23962 260 328
+2013-07-06 17:22:40 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 2783 300 1312

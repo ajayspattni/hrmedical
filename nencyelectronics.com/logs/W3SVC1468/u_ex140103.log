@@ -1,0 +1,58 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 03:00:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 03:00:19 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4628 268 2296
+2014-01-03 03:01:37 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.32 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 0
+2014-01-03 03:01:37 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 199.30.20.32 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 57885 414 421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 08:47:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 08:47:55 W3SVC1468 76.72.165.79 GET / - 80 - 202.131.119.218 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:26.0)+Gecko/20100101+Firefox/26.0 200 0 64 0 509 4046
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 09:10:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 09:10:18 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.56.93.82 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 187
+2014-01-03 09:11:26 W3SVC1468 76.72.165.79 GET / - 80 - 180.76.5.190 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4643 222 1250
+2014-01-03 09:12:08 W3SVC1468 76.72.165.79 GET /index.aspx - 80 - 157.56.93.82 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4624 285 140
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 13:23:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 13:23:45 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.103 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 437
+2014-01-03 13:23:45 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 199.30.20.103 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 18648 412 343
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 13:41:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 13:41:41 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 62
+2014-01-03 13:41:43 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 109289 414 968
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 18:50:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 18:50:04 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.151 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 328
+2014-01-03 18:50:04 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 199.30.20.151 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 23981 413 484
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 19:14:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 19:14:07 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.29 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 250
+2014-01-03 19:14:09 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.20.29 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 98900 414 687
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2014-01-03 22:18:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2014-01-03 22:18:14 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 281
+2014-01-03 22:18:16 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4621 365 1671
+2014-01-03 22:21:39 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 218
+2014-01-03 22:32:03 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.103 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 15
+2014-01-03 22:32:03 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 199.30.20.103 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 18648 412 187
+2014-01-03 22:44:42 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.46 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 15
+2014-01-03 22:44:42 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 199.30.20.46 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 22988 422 234
+2014-01-03 22:47:41 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 78
+2014-01-03 22:47:42 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 109289 414 828
+2014-01-03 23:02:43 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.29 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 31
+2014-01-03 23:02:44 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.20.29 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 98900 414 828

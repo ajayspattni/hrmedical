@@ -1,0 +1,44 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 01:28:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 01:28:06 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 625
+2013-10-14 01:28:08 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 66.249.66.174 Googlebot-Image/1.0 304 0 0 211 267 390
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 03:10:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 03:10:19 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.66.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4635 375 1578
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 07:31:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 07:31:38 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4633 234 3031
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 12:05:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 12:05:20 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.66.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2907 441 2500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 13:44:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 13:44:22 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 875
+2013-10-14 13:56:11 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.66.174 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2908 431 2062
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 14:15:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 14:15:40 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 78
+2013-10-14 14:16:12 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 66.249.66.174 Googlebot-Image/1.0 304 0 0 211 257 2031
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 16:38:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 16:38:17 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.66.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 274 1359
+2013-10-14 16:38:17 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.66.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 247 296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-14 22:03:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-14 22:03:13 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4627 268 3390

@@ -1,0 +1,39 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-20 00:18:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-20 00:18:38 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.64.2 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 296
+2013-12-20 00:18:39 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.64.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4624 365 1062
+2013-12-20 00:29:22 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.64.2 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 140
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-20 02:49:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-20 02:49:50 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.64.3 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2909 431 1546
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-20 10:18:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-20 10:18:50 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.64.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 274 4953
+2013-12-20 10:18:52 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.64.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4623 238 2156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-20 13:21:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-20 13:21:18 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.16.212 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:26.0)+Gecko/20100101+Firefox/26.0 200 0 0 22382 484 2078
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-20 14:39:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-20 14:39:05 W3SVC1468 76.72.165.79 GET / - 80 - 180.76.6.57 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4645 222 1921
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-20 20:58:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-20 20:58:24 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.64.2 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 247 406
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-20 23:32:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-20 23:32:27 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.64.3 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 406
+2013-12-20 23:32:30 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.64.3 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4624 234 2187

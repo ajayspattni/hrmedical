@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-26 01:08:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-26 01:08:48 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.103 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 125
+2013-06-26 01:08:48 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 199.30.20.103 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 24324 429 625
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-26 10:09:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-26 10:09:37 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.16.4 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 1578
+2013-06-26 10:09:37 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 199.30.16.4 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 14667 397 546
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-26 23:34:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-26 23:34:38 W3SVC1468 76.72.165.79 GET / - 80 - 96.47.226.19 - 200 0 0 19275 117 1906

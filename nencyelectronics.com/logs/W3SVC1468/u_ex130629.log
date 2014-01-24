@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-29 14:30:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-29 14:30:11 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 625
+2013-06-29 14:30:14 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 334 281
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-29 15:43:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-29 15:43:08 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 131.253.24.3 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 593
+2013-06-29 15:43:08 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 131.253.24.3 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 93340 402 734
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-29 19:56:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-29 19:56:43 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 64.246.178.34 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 297 656
+2013-06-29 19:56:45 W3SVC1468 76.72.165.79 GET / - 80 - 64.246.178.34 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 4634 499 1703

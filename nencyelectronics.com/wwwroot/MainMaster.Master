@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainMaster.master.cs"
+    Inherits="NencyElectronics.MainMaster" %>
+
+<%@ Register Src="MasterFrame.ascx" TagName="MasterFrame" TagPrefix="uc1" %>
+<%@ Register src="Menubar.ascx" tagname="Menubar" tagprefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Nency Electronics...</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body background="Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg">
+    <form id="form1" runat="server">
+    <table border="0" width="1050px" align="center" bgcolor="37363c">
+        <tr>
+            <td align="right" colspan="4">
+            <asp:Panel ID="Panel3" runat="server" BorderColor="black" BorderStyle="Solid" BorderWidth="3">
+                <asp:Label ID="Label1" runat="server" Text="User Name" ForeColor="White" Font-Bold="true"></asp:Label>
+            
+                <asp:TextBox runat="server" BorderStyle="Outset" BorderColor="Black"></asp:TextBox>
+                <asp:Label ID="Label2" runat="server" Text="Password" ForeColor="White" Font-Bold="true"></asp:Label>
+                <asp:TextBox ID="TextBox1" runat="server" BorderStyle="Outset" BorderColor="Black" TextMode="Password"></asp:TextBox>
+                <asp:Button runat="server" Text="Go..." />
+                </asp:Panel>
+            </td>
+        </tr>
+
+    </table>
+    <table border="0" width="950px" align="center" bgcolor="37363C">
+        <tr>
+            <td>
+                <asp:Panel ID="Panel1" runat="server" BorderColor="black" BorderStyle="Solid" BorderWidth="3">
+                    <uc1:MasterFrame ID="MasterFrame1" runat="server" />
+                </asp:Panel>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <asp:Panel ID="Panel2" runat="server" BorderColor="black" BorderStyle="Solid" BorderWidth="3">
+                    <uc2:Menubar ID="Menubar1" runat="server" />
+                    
+                </asp:Panel>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

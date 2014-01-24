@@ -1,0 +1,81 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-08 05:04:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-08 05:04:29 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 609
+2013-12-08 05:04:31 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4622 234 2000
+2013-12-08 05:05:43 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-08 12:41:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-08 12:41:02 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 180.76.5.190 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 304 0 0 230 340 1171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-08 16:20:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-08 16:20:07 W3SVC1468 76.72.165.79 GET / - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 4626 473 6781
+2013-12-08 16:20:15 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 2182 453 6421
+2013-12-08 16:20:28 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 47923 524 16140
+2013-12-08 16:20:31 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 14648 511 2046
+2013-12-08 16:20:35 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 52226 526 23609
+2013-12-08 16:20:50 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 27245 454 40687
+2013-12-08 16:20:50 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 24033 541 13468
+2013-12-08 16:20:51 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 41444 524 39062
+2013-12-08 16:20:54 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 24305 543 16718
+2013-12-08 16:21:03 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 19285 536 24890
+2013-12-08 16:21:03 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 59086 572 52562
+2013-12-08 16:21:05 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 20907 530 13484
+2013-12-08 16:21:06 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 41173 447 57437
+2013-12-08 16:21:11 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 22969 536 16968
+2013-12-08 16:21:12 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 38550 614 61906
+2013-12-08 16:21:15 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 25455 534 23453
+2013-12-08 16:21:19 W3SVC1468 76.72.165.79 GET /sliderengine/skins/playvideo-64-64-0.png - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 2734 538 5953
+2013-12-08 16:21:19 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 20541 532 14671
+2013-12-08 16:21:20 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navbuttonbgimage-28-28-0.png - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 775 545 3562
+2013-12-08 16:21:22 W3SVC1468 76.72.165.79 GET /sliderengine/skins/bottomshadow-110-95-3.png - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 4855 542 2453
+2013-12-08 16:21:22 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 57866 528 65437
+2013-12-08 16:21:22 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 17712 529 31156
+2013-12-08 16:21:23 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 93321 516 53093
+2013-12-08 16:21:23 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 18629 526 18156
+2013-12-08 16:21:24 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 23962 527 16828
+2013-12-08 16:21:24 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 57866 528 73781
+2013-12-08 16:21:27 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 28894 524 14593
+2013-12-08 16:21:28 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 14157 534 58328
+2013-12-08 16:21:30 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 22044 542 21515
+2013-12-08 16:21:30 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navarrows-28-28-0.png - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 1685 538 9390
+2013-12-08 16:21:31 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 117048 528 76593
+2013-12-08 16:21:31 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navplaypause-28-28-0.png - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 1356 541 10484
+2013-12-08 16:21:33 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 109270 528 80187
+2013-12-08 16:21:35 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 52226 526 78640
+2013-12-08 16:21:35 W3SVC1468 76.72.165.79 GET /style.css - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 1553 449 78609
+2013-12-08 16:21:36 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 503 508 593
+2013-12-08 16:21:42 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 153719 528 93312
+2013-12-08 16:21:48 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 98881 528 99062
+2013-12-08 16:21:51 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 38550 614 101156
+2013-12-08 16:21:51 W3SVC1468 76.72.165.79 GET /favicon.ico - 80 - 1.38.24.127 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 404 0 2 1405 509 593
+2013-12-08 16:26:11 W3SVC1468 76.72.165.79 HEAD /Images/service.jpg - 80 - 1.38.24.127 - 200 0 0 250 89 593
+2013-12-08 16:26:30 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 1.38.24.127 AndroidDownloadManager 200 0 0 93321 124 11468
+2013-12-08 16:27:31 W3SVC1468 76.72.165.79 HEAD /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 1.38.24.127 - 200 0 0 250 187 812
+2013-12-08 16:27:39 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 1.38.24.127 AndroidDownloadManager 200 0 0 38550 222 5109
+2013-12-08 16:29:39 W3SVC1468 76.72.165.79 HEAD /Images/thumbnails/id391932.jpg - 80 - 1.38.24.127 - 200 0 0 249 101 578
+2013-12-08 16:29:49 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 1.38.24.127 AndroidDownloadManager 200 0 0 57866 136 5562
+2013-12-08 16:30:24 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4626 365 46
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-08 21:13:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-08 21:13:11 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.213.68 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 213 1046
+2013-12-08 21:13:14 W3SVC1468 76.72.165.79 GET / - 80 - 65.55.213.68 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 200 0 0 4358 203 3000
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-08 21:42:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-08 21:42:39 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 93
+2013-12-08 21:42:39 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2911 431 359
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-08 23:26:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-08 23:26:45 W3SVC1468 76.72.165.79 GET /index.aspx - 80 - 65.55.213.68 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 200 0 0 4356 213 1843
+2013-12-08 23:26:49 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 65.55.213.68 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 200 0 0 2804 219 234

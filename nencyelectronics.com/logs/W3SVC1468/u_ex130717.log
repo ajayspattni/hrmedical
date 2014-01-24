@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-17 12:50:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-17 12:50:35 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 178.137.160.115 Mozilla/4.61+[en]+(X11;+U;+)+-+BrowseX+(2.0.0+Windows) 200 0 64 0 159 2843
+2013-07-17 12:50:35 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 178.137.160.115 Mozilla/4.61+[en]+(X11;+U;+)+-+BrowseX+(2.0.0+Windows) 200 0 64 0 159 1781
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-17 15:49:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-17 15:49:17 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 153 1656
+2013-07-17 15:49:17 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 0 8182 153 703
+2013-07-17 15:49:19 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 153 312
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-17 22:23:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-17 22:23:00 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 562
+2013-07-17 22:23:00 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 200 0 0 52226 259 687

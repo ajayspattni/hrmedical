@@ -1,0 +1,49 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 03:14:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 03:14:29 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 2734
+2013-10-04 03:14:32 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4634 375 2328
+2013-10-04 03:22:50 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 03:54:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 03:54:14 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 375
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 04:28:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 04:28:24 W3SVC1468 76.72.165.79 GET /wp-login.php - 80 - 110.77.155.206 Mozilla/3.0+(compatible;+Indy+Library) 404 0 2 1405 161 906
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 05:21:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 05:21:06 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4634 268 1687
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 05:53:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 05:53:54 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 281
+2013-10-04 05:53:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2910 441 843
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 07:22:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 07:22:50 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 180.76.5.88 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 2201 254 1046
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 19:54:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 19:54:24 W3SVC1468 76.72.165.79 GET / - 80 - 23.20.115.183 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1 200 0 0 22608 340 2656
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 22:31:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 22:31:48 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 406
+2013-10-04 22:31:48 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 304 0 0 210 261 578
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-04 23:17:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-04 23:17:08 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 180.76.5.172 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 41192 248 4046

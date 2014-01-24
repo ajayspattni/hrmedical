@@ -1,0 +1,78 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-16 06:34:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-16 06:34:00 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 546
+2013-10-16 06:34:00 W3SVC1468 76.72.165.79 GET /pk.html - 80 - 66.249.66.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 404 0 2 1405 382 62
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-16 17:43:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-16 17:43:12 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.66.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 656
+2013-10-16 17:43:12 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 66.249.66.174 Googlebot-Image/1.0 304 0 0 211 347 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-16 18:03:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-16 18:03:53 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 66.249.66.174 Googlebot-Image/1.0 304 0 0 211 347 171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-16 18:48:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-16 18:48:54 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.35.47 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 1218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-16 19:21:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-16 19:21:58 W3SVC1468 76.72.165.79 GET / - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 4655 294 2359
+2013-10-16 19:21:58 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 2201 295 515
+2013-10-16 19:21:59 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 27264 296 1062
+2013-10-16 19:21:59 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 59105 341 1250
+2013-10-16 19:21:59 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 41192 289 1281
+2013-10-16 19:21:59 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 50185 383 1046
+2013-10-16 19:22:00 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 57885 297 937
+2013-10-16 19:22:00 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 52245 295 1000
+2013-10-16 19:22:00 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 47942 293 1015
+2013-10-16 19:22:01 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 41463 293 1546
+2013-10-16 19:22:01 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 109289 297 1703
+2013-10-16 19:22:01 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 117067 297 1609
+2013-10-16 19:22:02 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 153738 297 1875
+2013-10-16 19:22:02 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 50185 383 890
+2013-10-16 19:22:02 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 57885 297 859
+2013-10-16 19:22:03 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 98900 297 2078
+2013-10-16 19:22:03 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 52245 295 1078
+2013-10-16 19:22:04 W3SVC1468 76.72.165.79 GET /style.css - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 1572 276 1328
+2013-10-16 19:22:04 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 14667 280 1359
+2013-10-16 19:22:04 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 93340 285 1687
+2013-10-16 19:22:06 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 24324 312 1171
+2013-10-16 19:22:06 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 22106 303 1343
+2013-10-16 19:22:06 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 24052 310 1578
+2013-10-16 19:22:06 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 19304 305 765
+2013-10-16 19:22:06 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 17731 298 734
+2013-10-16 19:22:07 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 25474 303 890
+2013-10-16 19:22:07 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 20926 299 953
+2013-10-16 19:22:07 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 22988 305 828
+2013-10-16 19:22:07 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 20560 301 765
+2013-10-16 19:22:07 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 28218 295 718
+2013-10-16 19:22:08 W3SVC1468 76.72.165.79 HEAD /test1.mp3 - 80 - 95.25.84.233 contype 404 0 2 179 178 140
+2013-10-16 19:22:08 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 23981 296 1046
+2013-10-16 19:22:08 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 22063 311 1000
+2013-10-16 19:22:08 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 522 277 140
+2013-10-16 19:22:08 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 78650 293 1171
+2013-10-16 19:22:08 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navbuttonbgimage-28-28-0.png - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 794 314 421
+2013-10-16 19:22:09 W3SVC1468 76.72.165.79 GET /sliderengine/skins/bottomshadow-110-95-3.png - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 4874 311 625
+2013-10-16 19:22:09 W3SVC1468 76.72.165.79 GET /sliderengine/skins/playvideo-64-64-0.png - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 2753 307 421
+2013-10-16 19:22:09 W3SVC1468 76.72.165.79 GET /sliderengine/skins/previewarrow-16-8-1.png - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 490 309 156
+2013-10-16 19:22:09 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navarrows-28-28-0.png - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 1704 307 218
+2013-10-16 19:22:09 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navplaypause-28-28-0.png - 80 - 95.25.84.233 Opera/9.80+(Windows+NT+5.1;+U;+ru)+Presto/2.6.30+Version/10.63 200 0 0 1375 310 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-16 20:17:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-16 20:17:43 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 94.23.32.131 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT+5.0) 404 0 2 1405 166 437
+2013-10-16 20:17:44 W3SVC1468 76.72.165.79 GET / - 80 - 94.23.32.131 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT+5.0) 200 0 0 4635 156 1125
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-16 20:37:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-16 20:37:35 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 157.55.35.47 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 2909 291 140

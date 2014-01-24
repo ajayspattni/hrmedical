@@ -1,0 +1,41 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-25 03:15:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-25 03:15:15 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 198.27.82.188 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 177 640
+2013-09-25 03:15:17 W3SVC1468 76.72.165.79 GET / - 80 - 198.27.82.188 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0 4336 167 1859
+2013-09-25 03:15:17 W3SVC1468 76.72.165.79 GET /favicon.ico - 80 - 198.27.82.188 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 178 31
+2013-09-25 03:15:17 W3SVC1468 76.72.165.79 GET /apple-touch-icon.png - 80 - 198.27.82.188 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 187 62
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-25 06:29:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-25 06:29:19 W3SVC1468 76.72.165.79 GET / - 80 - 46.19.136.212 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 64 0 123 3078
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-25 07:33:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-25 07:33:29 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 515
+2013-09-25 07:33:31 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 2785 300 1359
+2013-09-25 07:39:54 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 93
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-25 08:38:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-25 08:38:53 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4333 284 2109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-25 12:03:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-25 12:03:40 W3SVC1468 76.72.165.79 GET / - 80 - 178.238.235.184 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 200 0 0 22608 171 6875
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-25 13:11:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-25 13:11:43 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-25 17:50:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-25 17:50:02 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 180.76.5.110 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 404 0 2 1424 192 843
+2013-09-25 17:53:14 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4334 268 1781

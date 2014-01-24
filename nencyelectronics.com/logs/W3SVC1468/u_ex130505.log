@@ -1,0 +1,38 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-05 01:15:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-05 01:15:46 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 131.253.38.98 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 609
+2013-05-05 01:15:47 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 131.253.38.98 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 109289 414 781
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-05 02:16:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-05 02:16:52 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 750
+2013-05-05 02:16:56 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4336 234 4140
+2013-05-05 02:22:40 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 3305049 243 13203
+2013-05-05 02:22:42 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 62
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-05 09:08:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-05 09:08:57 W3SVC1468 76.72.165.79 HEAD / - 80 - 184.106.154.60 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1) 200 0 0 246 149 2234
+2013-05-05 09:08:57 W3SVC1468 76.72.165.79 GET / - 80 - 184.106.154.60 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1) 200 0 0 19281 148 109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-05 09:47:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-05 09:47:05 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 906
+2013-05-05 09:47:10 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.76.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2908 391 4890
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-05 13:03:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-05 13:03:31 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.16.53 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 890
+2013-05-05 13:03:31 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 199.30.16.53 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 22106 420 671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-05 17:19:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-05 17:19:05 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.16.17 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 578
+2013-05-05 17:19:06 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 199.30.16.17 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 153738 414 1000

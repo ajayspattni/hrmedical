@@ -1,0 +1,216 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 00:58:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 00:58:24 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 1296
+2013-08-31 00:58:24 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 187 1281
+2013-08-31 00:58:24 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 359
+2013-08-31 00:58:24 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 187 875
+2013-08-31 00:58:24 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 234
+2013-08-31 00:58:25 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 187 234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 02:51:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 02:51:46 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 125
+2013-08-31 02:51:46 W3SVC1468 76.72.165.79 GET /apple-touch-icon.png - 80 - 66.249.75.174 Googlebot-Image/1.0 404 0 2 1405 201 62
+2013-08-31 02:59:13 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.148 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 15
+2013-08-31 02:59:14 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 199.30.20.148 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 47942 410 1093
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 04:35:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 04:35:17 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt) 200 0 64 0 165 1890
+2013-08-31 04:35:17 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt) 200 0 64 0 165 812
+2013-08-31 04:35:17 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt) 200 0 64 0 165 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 05:09:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 05:09:24 W3SVC1468 76.72.165.79 GET / - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 4632 374 1609
+2013-08-31 05:09:24 W3SVC1468 76.72.165.79 GET /style.css - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 1553 345 343
+2013-08-31 05:09:24 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 2182 349 343
+2013-08-31 05:09:25 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 50166 454 1140
+2013-08-31 05:09:25 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 27245 350 1546
+2013-08-31 05:09:25 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 59086 412 1859
+2013-08-31 05:09:25 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 41173 343 1718
+2013-08-31 05:09:26 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 57866 368 1156
+2013-08-31 05:09:26 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 52226 366 1171
+2013-08-31 05:09:30 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 41444 364 437
+2013-08-31 05:09:30 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 47923 364 859
+2013-08-31 05:09:31 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 57866 368 578
+2013-08-31 05:09:31 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 109270 368 2171
+2013-08-31 05:09:33 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 52226 366 312
+2013-08-31 05:09:34 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 503 348 234
+2013-08-31 05:09:35 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 14648 351 312
+2013-08-31 05:09:35 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 404 0 2 1405 270 281
+2013-08-31 05:09:35 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 93321 356 843
+2013-08-31 05:09:36 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 200 0 0 22087 374 468
+2013-08-31 05:09:37 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 404 0 2 1405 270 234
+2013-08-31 05:09:39 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 103.11.116.189 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.62+Safari/537.36 404 0 64 0 390 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 05:35:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 05:35:29 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 195.242.218.133 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+XMPP+Tiscali+Communicator+v.10.0.2;+.NET+CLR+2.0.50727) 200 0 64 0 238 1265
+2013-08-31 05:35:30 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 195.242.218.133 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+XMPP+Tiscali+Communicator+v.10.0.2;+.NET+CLR+2.0.50727) 200 0 0 8854 238 546
+2013-08-31 05:35:31 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 195.242.218.133 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+XMPP+Tiscali+Communicator+v.10.0.2;+.NET+CLR+2.0.50727) 200 0 64 0 238 421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 07:48:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 07:48:06 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.119.118.152 Opera/8.00+(Windows+NT+5.1;+U;+en) 200 0 64 0 150 1921
+2013-08-31 07:48:06 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.119.118.152 Opera/8.00+(Windows+NT+5.1;+U;+en) 200 0 64 0 150 890
+2013-08-31 07:48:06 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.119.118.152 Opera/8.00+(Windows+NT+5.1;+U;+en) 200 0 64 0 150 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 09:07:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 09:07:44 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 1703
+2013-08-31 09:07:44 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 781
+2013-08-31 09:07:44 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.126.194 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 11:17:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 11:17:33 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4335 234 1906
+2013-08-31 11:26:24 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 78
+2013-08-31 11:40:32 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.16.9 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 78
+2013-08-31 11:40:33 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 199.30.16.9 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 50185 500 671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 13:26:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 13:26:45 W3SVC1468 76.72.165.79 GET / - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 22608 257 1375
+2013-08-31 13:26:45 W3SVC1468 76.72.165.79 GET / - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 22608 265 1375
+2013-08-31 13:26:45 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 5494 321 296
+2013-08-31 13:26:46 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 5494 313 1078
+2013-08-31 13:26:46 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 91932 309 1250
+2013-08-31 13:26:46 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 91932 301 1390
+2013-08-31 13:26:46 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 100418 315 1703
+2013-08-31 13:26:46 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 100418 323 1640
+2013-08-31 13:26:46 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 404 0 2 1405 256 46
+2013-08-31 13:26:47 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 404 0 2 1405 260 46
+2013-08-31 13:26:48 W3SVC1468 76.72.165.79 GET / - 80 - 216.38.216.101 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebkit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0 4646 269 109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 13:52:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 13:52:26 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 37.139.52.23 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1) 200 0 64 0 207 562
+2013-08-31 13:52:26 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 37.139.52.23 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1) 200 0 64 0 207 187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 14:41:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 14:41:30 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.16.20 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 343
+2013-08-31 14:41:31 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 199.30.16.20 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 78650 410 1000
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 15:04:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 15:04:46 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.16.47 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 187
+2013-08-31 15:04:47 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 199.30.16.47 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 153738 414 1000
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 15:55:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 15:55:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+XMPP+Tiscali+Communicator+v.10.0.2;+.NET+CLR+2.0.50727) 200 0 64 0 236 1421
+2013-08-31 15:55:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+XMPP+Tiscali+Communicator+v.10.0.2;+.NET+CLR+2.0.50727) 200 0 64 0 236 359
+2013-08-31 15:55:55 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 91.207.9.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+XMPP+Tiscali+Communicator+v.10.0.2;+.NET+CLR+2.0.50727) 200 0 64 0 236 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 16:45:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 16:45:37 W3SVC1468 76.72.165.79 GET /style.css - 80 - 180.76.5.150 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 1572 231 562
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 17:18:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 17:18:57 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 218
+2013-08-31 17:19:27 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4333 275 1125
+2013-08-31 17:19:41 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 17712 274 750
+2013-08-31 17:19:42 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 59086 317 593
+2013-08-31 17:19:42 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 27245 272 578
+2013-08-31 17:19:44 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 41444 269 640
+2013-08-31 17:20:06 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 157.55.32.101 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 25455 279 625
+2013-08-31 17:20:06 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 157.55.32.101 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 28199 271 500
+2013-08-31 17:20:08 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 157.55.32.101 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 52226 271 515
+2013-08-31 17:20:46 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 157.56.93.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 20541 277 562
+2013-08-31 17:20:47 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 157.56.93.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 47923 269 703
+2013-08-31 17:20:47 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 157.56.93.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 52226 271 500
+2013-08-31 17:20:49 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 157.56.93.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 24033 286 296
+2013-08-31 17:20:50 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 157.56.93.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 22969 281 453
+2013-08-31 17:20:51 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 157.56.93.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 153719 273 1031
+2013-08-31 17:21:06 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 22087 279 500
+2013-08-31 17:21:06 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 20907 275 500
+2013-08-31 17:21:08 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 57866 273 437
+2013-08-31 17:21:08 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 19285 281 296
+2013-08-31 17:21:09 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 14648 256 359
+2013-08-31 17:21:11 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 93321 261 750
+2013-08-31 17:21:12 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 50166 359 531
+2013-08-31 17:21:13 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 41173 265 531
+2013-08-31 17:21:13 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 22044 287 390
+2013-08-31 17:21:15 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 50166 359 406
+2013-08-31 17:21:18 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 109270 273 2343
+2013-08-31 17:21:18 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 23962 272 406
+2013-08-31 17:21:19 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 57866 273 437
+2013-08-31 17:21:22 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 5518 240 234
+2013-08-31 17:21:23 W3SVC1468 76.72.165.79 GET /style.css - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 3930 221 343
+2013-08-31 17:22:07 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 65.55.52.97 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 78631 269 734
+2013-08-31 17:22:08 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 65.55.52.97 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 98881 273 859
+2013-08-31 17:22:08 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 65.55.52.97 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 252 140
+2013-08-31 17:22:09 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 65.55.52.97 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 24305 288 453
+2013-08-31 17:23:26 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4333 275 234
+2013-08-31 17:24:26 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navplaypause-28-28-0.png - 80 - 157.55.32.101 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1356 286 500
+2013-08-31 17:24:27 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navbuttonbgimage-28-28-0.png - 80 - 157.55.32.101 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 775 290 109
+2013-08-31 17:24:39 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 180.76.5.103 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 404 0 2 1424 192 218
+2013-08-31 17:24:46 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 157.56.93.40 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 98881 273 953
+2013-08-31 17:25:06 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 503 253 140
+2013-08-31 17:25:09 W3SVC1468 76.72.165.79 GET /sliderengine/skins/bottomshadow-110-95-3.png - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4855 287 2406
+2013-08-31 17:25:26 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navarrows-28-28-0.png - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1685 283 156
+2013-08-31 17:25:27 W3SVC1468 76.72.165.79 GET /sliderengine/skins/playvideo-64-64-0.png - 80 - 157.55.33.15 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 2734 283 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 17:48:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 17:48:46 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.142 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 109
+2013-08-31 17:48:48 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 199.30.20.142 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 41463 410 312
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 18:20:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 18:20:58 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 187
+2013-08-31 18:21:25 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 503 253 218
+2013-08-31 18:21:27 W3SVC1468 76.72.165.79 GET /sliderengine/skins/bottomshadow-110-95-3.png - 80 - 65.55.24.237 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4855 287 343
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 19:15:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 19:15:12 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.75 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 359
+2013-08-31 19:15:13 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 65.55.215.75 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 117067 414 843
+2013-08-31 19:22:05 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.24.251 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 98881 263 781
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 20:46:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 20:46:03 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.119.118.152 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 1718
+2013-08-31 20:46:03 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.119.118.152 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 687
+2013-08-31 20:46:03 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.119.118.152 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 182 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 21:03:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 21:03:02 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.99 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 78
+2013-08-31 21:03:02 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 65.55.215.99 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 57885 414 593
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 22:54:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 22:54:03 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.34 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 390
+2013-08-31 22:54:03 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 199.30.20.34 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 52245 412 468
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-08-31 23:58:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-08-31 23:58:35 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.41 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 406
+2013-08-31 23:58:36 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.20.41 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 98900 414 593

@@ -1,0 +1,74 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 00:48:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 00:48:55 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 25455 307 1093
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 03:24:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 03:24:17 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 17712 302 640
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 04:31:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 04:31:01 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 52226 299 5453
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 10:45:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 10:45:56 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 20541 305 6921
+2013-05-22 10:52:58 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 153719 301 1843
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 13:01:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 13:01:05 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 937
+2013-05-22 13:01:08 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 47923 297 562
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 14:05:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 14:05:29 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 14648 284 1578
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 14:21:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 14:21:26 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 31
+2013-05-22 14:21:28 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.76.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2905 441 2468
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 15:17:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 15:17:36 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 117048 301 2500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 16:19:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 16:19:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.34.35 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 4781
+2013-05-22 16:20:57 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.34.35 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4334 275 1859
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 18:10:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 18:10:05 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 22969 309 1359
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 18:57:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 18:57:45 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 50166 387 1015
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 19:27:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 19:26:59 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 93321 289 1437
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 21:02:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 21:02:17 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 23962 300 1078
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-22 23:32:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-22 23:32:22 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 200 0 0 109270 301 1703

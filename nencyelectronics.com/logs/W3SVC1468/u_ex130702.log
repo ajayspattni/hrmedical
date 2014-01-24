@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-02 04:30:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-02 04:30:38 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 198.27.82.152 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 177 468
+2013-07-02 04:30:39 W3SVC1468 76.72.165.79 GET / - 80 - 198.27.82.152 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0 4333 167 1140
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-02 11:49:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-02 11:49:11 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.72.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 843
+2013-07-02 11:49:12 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.72.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4334 234 1750
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-02 16:28:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-02 16:28:27 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 404 0 2 1405 193 640

@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-21 02:32:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-21 02:32:53 W3SVC1468 76.72.165.79 GET / - 80 - 95.211.216.72 Mozilla/5.0 200 0 0 22608 128 2453

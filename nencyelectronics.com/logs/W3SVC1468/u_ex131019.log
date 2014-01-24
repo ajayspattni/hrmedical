@@ -1,0 +1,75 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 01:01:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 01:01:46 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.83 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 453
+2013-10-19 01:01:46 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 199.30.20.83 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 57885 414 859
+2013-10-19 01:07:51 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.31 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 15
+2013-10-19 01:07:51 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.20.31 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 98900 414 671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 01:48:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 01:48:57 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.131 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 93
+2013-10-19 01:48:58 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 199.30.20.131 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 25474 420 375
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 03:52:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 03:52:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 375
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 05:10:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 05:10:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.31 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 421
+2013-10-19 05:10:35 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.20.31 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 98900 414 1015
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 08:14:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 08:14:17 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.135 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 656
+2013-10-19 08:14:18 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 199.30.20.135 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 109289 414 734
+2013-10-19 08:19:45 W3SVC1468 76.72.165.79 GET / - 80 - 80.77.95.46 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.6)+Gecko/20100625+Firefox/3.6.6 200 0 0 22608 161 1500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 09:11:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 09:11:21 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4632 268 1531
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 12:58:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 12:58:24 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.93 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 1171
+2013-10-19 12:58:25 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 65.55.215.93 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 28218 412 1031
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 13:14:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 13:14:49 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.44 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 78
+2013-10-19 13:14:49 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 65.55.215.44 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 50185 500 734
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 13:40:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 13:40:10 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.39 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 359
+2013-10-19 13:40:10 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 65.55.215.39 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 22988 422 515
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 14:27:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 14:27:56 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 390
+2013-10-19 14:27:57 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 19304 422 765
+2013-10-19 14:33:51 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 78
+2013-10-19 14:33:52 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 65.55.215.76 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 93340 402 1000
+2013-10-19 14:48:01 W3SVC1468 76.72.165.79 GET / - 80 - 188.138.84.140 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 64 0 196 2656
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 17:46:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 17:46:25 W3SVC1468 76.72.165.79 GET / - 80 - 180.76.5.15 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4652 226 3046
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-19 19:15:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-19 19:15:37 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.34 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 1796
+2013-10-19 19:15:39 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 65.55.215.34 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 20560 418 3031

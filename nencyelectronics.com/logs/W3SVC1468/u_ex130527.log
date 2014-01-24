@@ -1,0 +1,45 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-27 11:28:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-27 11:28:27 W3SVC1468 76.72.165.79 GET / - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 4636 266 3609
+2013-05-27 11:28:27 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 2182 329 562
+2013-05-27 11:28:28 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 41173 323 1250
+2013-05-27 11:28:30 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 27245 330 2171
+2013-05-27 11:28:30 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 50166 434 2250
+2013-05-27 11:28:30 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 109270 348 1359
+2013-05-27 11:28:30 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 57866 348 2640
+2013-05-27 11:28:30 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 41444 344 2281
+2013-05-27 11:28:31 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 52226 346 3546
+2013-05-27 11:28:31 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 50166 434 1734
+2013-05-27 11:28:32 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 98881 348 2031
+2013-05-27 11:28:32 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 153719 348 2578
+2013-05-27 11:28:32 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 57866 348 1890
+2013-05-27 11:28:32 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 59086 392 5234
+2013-05-27 11:28:32 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 52226 346 718
+2013-05-27 11:28:32 W3SVC1468 76.72.165.79 GET /style.css - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 1553 285 828
+2013-05-27 11:28:32 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 93321 336 828
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 14648 331 1000
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 22087 354 984
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 24305 363 781
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 HEAD /test1.mp3 - 80 - 117.204.239.194 contype 200 0 0 252 198 390
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 47923 344 5218
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 17712 349 609
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 20907 350 593
+2013-05-27 11:28:33 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 22969 356 625
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 25455 354 828
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 19285 356 1703
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 28199 346 656
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 23962 347 703
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 24033 361 2203
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 22044 362 640
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 78631 344 953
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /sliderengine/skins/bottomshadow-110-95-3.png - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 4855 362 859
+2013-05-27 11:28:34 W3SVC1468 76.72.165.79 GET /sliderengine/skins/playvideo-64-64-0.png - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 2734 358 812
+2013-05-27 11:28:35 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 20541 352 1656
+2013-05-27 11:28:35 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navbuttonbgimage-28-28-0.png - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 775 365 687
+2013-05-27 11:28:35 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navplaypause-28-28-0.png - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 1356 361 703
+2013-05-27 11:28:35 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 503 328 625
+2013-05-27 11:28:35 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navarrows-28-28-0.png - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 1685 358 312
+2013-05-27 11:28:36 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 117.204.239.194 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) 200 0 0 117048 348 6906
+2013-05-27 11:29:13 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 117.204.239.194 NSPlayer/12.00.9200.16437+WMFSDK/12.00.9200.16437 200 0 0 3305049 307 38687

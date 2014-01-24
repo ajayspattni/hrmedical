@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-12 04:13:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-12 04:13:29 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 1390
+2013-06-12 04:13:30 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2907 441 1937
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-12 06:18:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-12 06:18:19 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.6 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 1015
+2013-06-12 06:18:19 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 199.30.20.6 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 14667 397 281
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-12 07:53:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-12 07:53:05 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.74 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 734
+2013-06-12 07:53:05 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 65.55.215.74 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 25474 420 484
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-12 08:22:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-12 08:22:52 W3SVC1468 76.72.165.79 GET / - 80 - 1.38.27.122 Apache-HttpClient/UNAVAILABLE+(java+1.4) 200 0 0 19275 119 7093
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-12 09:23:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-12 09:23:32 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.75 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 953
+2013-06-12 09:23:33 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 199.30.20.75 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 23981 413 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-12 12:52:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-12 12:52:26 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.52 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 1171
+2013-06-12 12:52:26 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 199.30.20.52 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 28218 412 203
+2013-06-12 13:08:05 W3SVC1468 76.72.165.79 GET /favicon.ico - 80 - 8.35.201.128 AppEngine-Google;+(+http://code.google.com/appengine;+appid:+s~getfavicon27) 404 0 2 1405 170 15
+2013-06-12 13:08:10 W3SVC1468 76.72.165.79 GET / - 80 - 8.35.201.128 AppEngine-Google;+(+http://code.google.com/appengine;+appid:+s~getfavicon27) 200 0 64 0 159 5609

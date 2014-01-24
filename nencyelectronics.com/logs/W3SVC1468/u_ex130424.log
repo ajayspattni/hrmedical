@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-24 03:18:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-24 03:18:11 W3SVC1468 76.72.165.79 GET / - 80 - 117.211.143.83 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.22+(KHTML,+like+Gecko)+Chrome/25.0.1364.68+Safari/537.22 404 0 0 3254 375 3828
+2013-04-24 03:18:12 W3SVC1468 76.72.165.79 GET /favicon.ico - 80 - 117.211.143.83 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.22+(KHTML,+like+Gecko)+Chrome/25.0.1364.68+Safari/537.22 404 0 2 1405 326 531
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-24 06:43:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-24 06:43:56 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 131.253.24.15 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 921
+2013-04-24 06:43:57 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 131.253.24.15 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 14666 397 156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-24 20:46:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-24 20:46:57 W3SVC1468 76.72.165.79 GET / - 80 - 110.75.172.109 YisouSpider 404 0 64 0 131 4171

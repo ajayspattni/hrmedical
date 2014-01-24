@@ -1,0 +1,65 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-11 15:40:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-11 15:40:38 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 625
+2013-11-11 15:40:41 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4639 234 2265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-11 19:04:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-11 19:04:52 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 4633 381 4328
+2013-11-11 19:04:53 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 22087 348 953
+2013-11-11 19:04:53 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 1553 349 1250
+2013-11-11 19:04:54 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 24033 355 1000
+2013-11-11 19:04:54 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 41444 338 1734
+2013-11-11 19:04:54 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 2182 353 2125
+2013-11-11 19:04:54 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 27245 354 2484
+2013-11-11 19:04:54 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 47923 338 2453
+2013-11-11 19:04:54 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 93321 330 2515
+2013-11-11 19:04:56 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 59086 386 2671
+2013-11-11 19:04:56 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 50166 428 2953
+2013-11-11 19:04:56 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 19285 350 1671
+2013-11-11 19:04:57 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 25455 348 1187
+2013-11-11 19:04:57 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 52226 340 3828
+2013-11-11 19:04:57 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 50166 428 4140
+2013-11-11 19:04:57 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 14648 325 4250
+2013-11-11 19:04:57 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 57866 342 4437
+2013-11-11 19:04:58 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 17712 343 3125
+2013-11-11 19:04:58 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 57866 342 4890
+2013-11-11 19:04:58 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 28199 340 2546
+2013-11-11 19:04:58 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 23962 341 2250
+2013-11-11 19:04:58 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 52226 340 5484
+2013-11-11 19:04:58 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 20541 346 3265
+2013-11-11 19:04:59 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 22969 350 3375
+2013-11-11 19:04:59 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 22044 356 2703
+2013-11-11 19:04:59 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 78631 338 2671
+2013-11-11 19:04:59 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 153719 342 6468
+2013-11-11 19:05:00 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 24305 357 5609
+2013-11-11 19:05:00 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 98881 342 6781
+2013-11-11 19:05:00 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 20907 344 4921
+2013-11-11 19:05:00 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 117048 342 7187
+2013-11-11 19:05:00 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 41173 347 7531
+2013-11-11 19:05:00 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 404 0 2 1405 394 203
+2013-11-11 19:05:01 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 0 503 322 218
+2013-11-11 19:05:01 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 64 65536 342 8265
+2013-11-11 19:05:01 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navbuttonbgimage-28-28-0.png - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 64 0 359 984
+2013-11-11 19:05:01 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navarrows-28-28-0.png - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 64 0 352 984
+2013-11-11 19:05:01 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navplaypause-28-28-0.png - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 64 0 355 1000
+2013-11-11 19:05:01 W3SVC1468 76.72.165.79 GET /sliderengine/skins/bottomshadow-110-95-3.png - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 64 0 356 1000
+2013-11-11 19:05:01 W3SVC1468 76.72.165.79 GET /sliderengine/skins/playvideo-64-64-0.png - 80 - 66.249.80.41 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.4+(KHTML,+like+Gecko;+Google+Web+Preview)+Chrome/22.0.1229+Safari/537.4 200 0 64 0 352 1046
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-11 21:21:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-11 21:21:38 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.32.149 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 1703
+2013-11-11 21:36:02 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.32.149 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4635 275 1812
+2013-11-11 21:36:04 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 199.30.25.111 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 41173 255 1078
+2013-11-11 21:36:50 W3SVC1468 76.72.165.79 GET /style.css - 80 - 157.56.92.178 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1553 252 156
+2013-11-11 21:36:51 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 157.56.92.178 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 2182 271 718
+2013-11-11 21:38:12 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 157.55.32.149 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 27245 272 2828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-11 22:37:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-11 22:37:59 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 65.55.52.113 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 252 562

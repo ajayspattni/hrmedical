@@ -1,0 +1,58 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-04 02:42:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-04 02:42:30 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.56.93.201 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 437
+2013-06-04 02:43:08 W3SVC1468 76.72.165.79 GET / - 80 - 157.56.93.201 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4336 275 1296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-04 15:18:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-04 15:18:01 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.56.93.201 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 687
+2013-06-04 15:18:50 W3SVC1468 76.72.165.79 GET / - 80 - 157.56.93.201 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4329 275 2015
+2013-06-04 15:31:05 W3SVC1468 76.72.165.79 GET / - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 4628 570 1546
+2013-06-04 15:31:08 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 0 2182 550 1718
+2013-06-04 15:31:32 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 64 0 669 25218
+2013-06-04 15:31:36 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 64 0 621 27578
+2013-06-04 15:33:16 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 1236 0 551 130078
+2013-06-04 15:34:12 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 1236 0 544 185312
+2013-06-04 15:34:17 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 1236 0 621 188500
+2013-06-04 15:34:52 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 1236 0 711 224593
+2013-06-04 15:34:58 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 121 0 623 230390
+2013-06-04 15:35:04 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 121 0 625 235140
+2013-06-04 15:35:17 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 995 0 625 251953
+2013-06-04 15:35:17 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 995 0 625 251625
+2013-06-04 15:35:17 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 995 0 711 251281
+2013-06-04 15:35:20 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 121 0 625 252984
+2013-06-04 15:35:47 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 121 0 625 279609
+2013-06-04 15:35:51 W3SVC1468 76.72.165.79 GET /style.css - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 995 0 546 281093
+2013-06-04 15:35:51 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 121 0 625 281156
+2013-06-04 15:35:51 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 1.38.24.32 Mozilla/5.0+(Linux;+U;+Android+2.3.6;+en-gb;+GT-S5360+Build/GINGERBREAD)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 200 0 121 0 623 281093
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-04 17:59:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-04 17:59:48 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.33.112 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 375
+2013-06-04 18:00:35 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 157.55.33.112 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 2786 291 1109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-04 18:44:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-04 18:44:35 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 250
+2013-06-04 18:44:38 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 353 234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-04 20:53:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-04 20:53:23 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 210 347 734
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-04 22:00:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-04 22:00:11 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 296
+2013-06-04 22:00:15 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4635 375 2656
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-04 23:09:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-04 23:09:03 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4333 268 1890

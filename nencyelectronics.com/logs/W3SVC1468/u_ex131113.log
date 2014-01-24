@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-13 03:45:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-13 03:45:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.56 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 484
+2013-11-13 03:45:34 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 65.55.215.56 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 14667 397 375
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-13 04:51:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-13 04:51:20 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 1046
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-13 20:59:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-13 20:59:37 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.33.45 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 687
+2013-11-13 21:01:28 W3SVC1468 76.72.165.79 GET /index.aspx - 80 - 157.55.33.45 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4634 285 2500

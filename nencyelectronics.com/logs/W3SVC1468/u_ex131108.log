@@ -1,0 +1,47 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 02:31:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 02:31:48 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 198.27.66.81 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 177 312
+2013-11-08 02:31:50 W3SVC1468 76.72.165.79 GET / - 80 - 198.27.66.81 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0 4634 167 1218
+2013-11-08 02:31:50 W3SVC1468 76.72.165.79 GET /favicon.ico - 80 - 198.27.66.81 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 178 0
+2013-11-08 02:31:50 W3SVC1468 76.72.165.79 GET /apple-touch-icon.png - 80 - 198.27.66.81 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 187 62
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 05:04:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 05:04:15 W3SVC1468 76.72.165.79 GET /wp-dem.php flag_sum=1 80 - 195.3.145.201 - 200 0 0 207 71 1531
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 08:05:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 08:05:57 W3SVC1468 76.72.165.79 GET /wp-dem.php flag_sum=1 80 - 195.3.145.201 - 200 0 0 207 71 1515
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 17:30:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 17:30:18 W3SVC1468 76.72.165.79 GET / - 80 - 180.76.5.172 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4651 226 3968
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 18:28:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 18:28:29 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 437
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 19:20:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 19:20:09 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 274 109
+2013-11-08 19:20:09 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4636 238 875
+2013-11-08 19:33:30 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 2182 266 218
+2013-11-08 19:33:30 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 247 109
+2013-11-08 19:33:31 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 247 31
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 21:15:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 21:15:16 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4635 268 562
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-08 22:46:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-08 22:46:58 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 180.76.5.157 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 404 0 2 1424 196 312

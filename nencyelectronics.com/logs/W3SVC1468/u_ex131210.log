@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-10 05:55:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-10 05:55:27 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 46.4.48.68 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:25.0)+Gecko/20100101+Firefox/25.0 404 0 2 1424 233 1421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-10 09:14:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-10 09:14:08 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 1109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-10 16:28:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-10 16:28:03 W3SVC1468 76.72.165.79 GET / - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4624 268 4265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-10 18:13:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-10 18:12:59 W3SVC1468 76.72.165.79 GET / - 80 - 192.241.146.199 Wget/1.13.4+(linux-gnu) 200 0 0 19030 120 3187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-12-10 21:51:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-12-10 21:51:55 W3SVC1468 76.72.165.79 GET / - 80 - 66.220.7.244 Mozilla/5.0+(Windows+NT+5.1;+rv:21.0)+Gecko/20100101+Firefox/21.0 200 0 0 22382 281 3640

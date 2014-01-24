@@ -1,0 +1,26 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-28 09:16:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-28 09:16:14 W3SVC1468 76.72.165.79 GET / - 80 - 180.76.5.16 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4355 226 3718
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-28 11:24:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-28 11:24:43 W3SVC1468 76.72.165.79 GET / - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 200 0 0 22608 171 1578
+2013-09-28 11:24:43 W3SVC1468 76.72.165.79 POST /index.aspx - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 500 0 0 3266 1131 187
+2013-09-28 11:24:44 W3SVC1468 76.72.165.79 GET / - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 200 0 0 22608 171 359
+2013-09-28 11:24:44 W3SVC1468 76.72.165.79 GET / - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 200 0 0 22608 171 375
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-28 19:58:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-28 19:58:22 W3SVC1468 76.72.165.79 GET / - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 200 0 0 22608 171 2437
+2013-09-28 19:58:23 W3SVC1468 76.72.165.79 POST /index.aspx - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 500 0 0 3266 1135 187
+2013-09-28 19:58:23 W3SVC1468 76.72.165.79 GET / - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 200 0 0 22608 171 359
+2013-09-28 19:58:23 W3SVC1468 76.72.165.79 GET / - 80 - 146.0.74.205 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) 200 0 0 22608 171 359
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-28 21:13:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-28 21:13:23 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 180.76.5.29 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 404 0 2 1424 192 1250

@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-22 02:37:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-22 02:37:12 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 375
+2013-06-22 02:37:13 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2906 441 1000
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-22 02:59:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-22 02:59:37 W3SVC1468 76.72.165.79 GET /wp-login.php - 80 - 195.175.83.218 Mozilla/5.0+(Windows+NT+6.1;+rv:19.0)+Gecko/20100101+Firefox/19.0 404 0 2 1405 192 218
+2013-06-22 02:59:37 W3SVC1468 76.72.165.79 GET /administrator/index.php - 80 - 195.175.83.218 Mozilla/5.0+(Windows+NT+6.1;+rv:19.0)+Gecko/20100101+Firefox/19.0 404 0 2 1405 203 140
+2013-06-22 02:59:37 W3SVC1468 76.72.165.79 GET /admin.php - 80 - 195.175.83.218 Mozilla/5.0+(Windows+NT+6.1;+rv:19.0)+Gecko/20100101+Firefox/19.0 404 0 2 1405 189 187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-22 12:04:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-22 12:04:32 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 687
+2013-06-22 12:04:34 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4632 375 1578
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-22 21:08:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-22 21:08:09 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 190 812
+2013-06-22 21:08:12 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 199.21.99.69 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) 304 0 0 211 334 265

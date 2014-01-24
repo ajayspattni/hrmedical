@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-28 13:50:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-28 13:50:55 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 65.55.215.60 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 1234
+2013-04-28 13:50:55 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 65.55.215.60 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 93340 402 703
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-28 18:31:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-28 18:31:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 781
+2013-04-28 18:31:35 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 2182 262 281
+2013-04-28 18:31:39 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 46
+2013-04-28 18:31:42 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 41173 256 250
+2013-04-28 18:31:43 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 27245 263 156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-28 22:09:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-28 22:09:44 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 199.30.20.24 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 375
+2013-04-28 22:09:46 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.20.24 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 98900 414 640
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-28 23:46:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-28 23:46:00 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 131.253.38.99 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 404 0 2 1424 217 562
+2013-04-28 23:46:00 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 131.253.38.99 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) 200 0 0 20560 418 421

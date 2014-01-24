@@ -1,0 +1,47 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-28 02:03:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-28 02:03:58 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 150 3359
+2013-07-28 02:03:58 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 150 1421
+2013-07-28 02:03:58 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 92.249.127.111 Mozilla/5.0+(compatible;+news+bot+/2.1) 200 0 64 0 150 2546
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-28 03:54:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-28 03:54:55 W3SVC1468 76.72.165.79 GET / - 80 - 178.255.87.241 Java/1.6.0_29 200 0 0 19256 159 2656
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-28 04:55:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-28 04:55:03 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 198.27.66.77 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 177 359
+2013-07-28 04:55:04 W3SVC1468 76.72.165.79 GET / - 80 - 198.27.66.77 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0 4334 167 843
+2013-07-28 04:55:04 W3SVC1468 76.72.165.79 GET /favicon.ico - 80 - 198.27.66.77 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 178 31
+2013-07-28 04:55:04 W3SVC1468 76.72.165.79 GET /apple-touch-icon.png - 80 - 198.27.66.77 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2 1405 187 46
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-28 06:23:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-28 06:23:47 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 178.137.93.32 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 1515
+2013-07-28 06:23:48 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 178.137.93.32 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 812
+2013-07-28 06:23:48 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 178.137.93.32 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 64 0 184 234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-28 15:48:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-28 15:48:23 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.152.23 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 64 0 157 2593
+2013-07-28 15:48:23 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.152.23 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 64 0 157 1625
+2013-07-28 15:48:23 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 46.118.152.23 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 64 0 157 671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-28 19:17:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-28 19:17:37 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 37.139.52.23 Opera/9.0+(Windows+NT+5.1;+U;+en) 200 0 64 0 141 2406
+2013-07-28 19:17:37 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 37.139.52.23 Opera/9.0+(Windows+NT+5.1;+U;+en) 200 0 64 0 141 1312
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-07-28 22:46:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-07-28 22:46:34 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 671
+2013-07-28 22:46:36 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4332 234 1984
+2013-07-28 22:56:27 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 3906 243 93

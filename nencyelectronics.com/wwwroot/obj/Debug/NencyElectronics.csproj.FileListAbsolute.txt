@@ -1,0 +1,5 @@
+D:\nency\Nency Electronics\NencyElectronics\NencyElectronics\bin\NencyElectronics.dll
+D:\nency\Nency Electronics\NencyElectronics\NencyElectronics\bin\NencyElectronics.pdb
+D:\nency\Nency Electronics\NencyElectronics\NencyElectronics\obj\Debug\ResolveAssemblyReference.cache
+D:\nency\Nency Electronics\NencyElectronics\NencyElectronics\obj\Debug\NencyElectronics.dll
+D:\nency\Nency Electronics\NencyElectronics\NencyElectronics\obj\Debug\NencyElectronics.pdb

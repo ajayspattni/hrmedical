@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-19 02:52:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-19 02:52:17 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.32.116 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 296
+2013-09-19 03:01:01 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.32.116 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4336 275 1484
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-19 14:32:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-19 14:32:35 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.32.39 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 1203
+2013-09-19 14:38:02 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.32.39 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4337 275 2437
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-09-19 16:36:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-09-19 16:36:47 W3SVC1468 76.72.165.79 GET / - 80 - 180.76.5.69 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4352 222 2796

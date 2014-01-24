@@ -1,0 +1,53 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-27 02:06:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-27 02:06:20 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 162.243.67.147 Mozilla/5.0+(compatible;+spbot/4.0.2;++http://www.seoprofiler.com/bot+) 404 0 2 1424 293 281
+2013-11-27 02:06:27 W3SVC1468 76.72.165.79 GET / - 80 - 162.243.67.147 Mozilla/5.0+(compatible;+spbot/4.0.2;++http://www.seoprofiler.com/bot+) 200 0 0 4654 283 1421
+2013-11-27 02:06:27 W3SVC1468 76.72.165.79 GET /index.aspx - 80 - 162.243.67.147 Mozilla/5.0+(compatible;+spbot/4.0.2;++http://www.seoprofiler.com/bot+) 200 0 0 4654 336 31
+2013-11-27 02:06:30 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 162.243.67.147 Mozilla/5.0+(compatible;+spbot/4.0.2;++http://www.seoprofiler.com/bot+) 200 0 0 2926 342 15
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-11-27 22:04:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-27 22:04:47 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 157.55.33.38 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 1405 272 640
+2013-11-27 22:09:06 W3SVC1468 76.72.165.79 GET / - 80 - 157.55.33.38 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 4631 275 2031
+2013-11-27 22:09:07 W3SVC1468 76.72.165.79 GET /style.css - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 1553 257 187
+2013-11-27 22:09:07 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 2182 261 812
+2013-11-27 22:09:08 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 27245 262 1343
+2013-11-27 22:09:08 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 41173 255 1859
+2013-11-27 22:09:08 W3SVC1468 76.72.165.79 GET /Images/patterns_009_blue-hexagon-pattern_crop-iphone_web_for-creattica.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 59086 307 1734
+2013-11-27 22:09:08 W3SVC1468 76.72.165.79 GET /test1.mp3 - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 404 0 2 1405 302 171
+2013-11-27 22:09:09 W3SVC1468 76.72.165.79 GET /Images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 50166 349 1625
+2013-11-27 22:09:09 W3SVC1468 76.72.165.79 GET /Images/thumbnails/images.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 52226 261 687
+2013-11-27 22:09:09 W3SVC1468 76.72.165.79 GET /Images/thumbnails/id391932.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 57866 263 1375
+2013-11-27 22:09:09 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 47923 259 1015
+2013-11-27 22:09:12 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording1.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 109270 263 2328
+2013-11-27 22:09:12 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr2.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 41444 259 2390
+2013-11-27 22:09:12 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording2.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 117048 263 2296
+2013-11-27 22:09:12 W3SVC1468 76.72.165.79 GET /images/thumbnails/id391932.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 57866 263 375
+2013-11-27 22:09:13 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 52226 261 171
+2013-11-27 22:09:13 W3SVC1468 76.72.165.79 GET /images/thumbnails/1329666359_319194284_1-DEALS-IN-COMPUTER-REPAIR-PRINTER-REPAIR-NETWORKING-AMC-ETC-Gandhi-Nagar.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 50166 349 1875
+2013-11-27 22:09:13 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording4.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 98881 263 2203
+2013-11-27 22:09:13 W3SVC1468 76.72.165.79 GET /Images/thumbnails/hording3.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 153719 263 3062
+2013-11-27 22:09:13 W3SVC1468 76.72.165.79 GET /Images/hh.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 14648 246 484
+2013-11-27 22:09:14 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NS42B24+copy.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 24305 278 562
+2013-11-27 22:09:14 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-DS42D.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 22087 269 1000
+2013-11-27 22:09:14 W3SVC1468 76.72.165.79 GET /Images/HomeCameraImage/PXL-NC38D+copy.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 24033 276 796
+2013-11-27 22:09:14 W3SVC1468 76.72.165.79 GET /Images/service.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 93321 251 1328
+2013-11-27 22:09:14 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/Dahua+DH3104.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 19285 271 359
+2013-11-27 22:09:18 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/PXL-2108.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 20907 265 750
+2013-11-27 22:09:18 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha308+KYfinal.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 22969 271 765
+2013-11-27 22:09:18 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/Alpha207exefinal.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 25455 269 812
+2013-11-27 22:09:18 W3SVC1468 76.72.165.79 GET /Images/HomeDvrImage/DS-7204.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 17712 264 1109
+2013-11-27 22:09:19 W3SVC1468 76.72.165.79 GET /Images/HomeEpbx/pluto-104final.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 20541 267 312
+2013-11-27 22:09:19 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/abcd.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 28199 261 296
+2013-11-27 22:09:19 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 23962 262 406
+2013-11-27 22:09:19 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/ubnt-nanobridge-m-11.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 22044 277 500
+2013-11-27 22:09:19 W3SVC1468 76.72.165.79 GET /mainbk.png - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 503 243 328
+2013-11-27 22:09:20 W3SVC1468 76.72.165.79 GET /Images/logo/framefinal.jpg - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 78631 259 640
+2013-11-27 22:09:20 W3SVC1468 76.72.165.79 GET /sliderengine/skins/playvideo-64-64-0.png - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 2734 273 562
+2013-11-27 22:09:20 W3SVC1468 76.72.165.79 GET /sliderengine/skins/bottomshadow-110-95-3.png - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 4855 277 328
+2013-11-27 22:09:20 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navbuttonbgimage-28-28-0.png - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 775 280 484
+2013-11-27 22:09:20 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navarrows-28-28-0.png - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 1685 273 296
+2013-11-27 22:09:20 W3SVC1468 76.72.165.79 GET /sliderengine/skins/navplaypause-28-28-0.png - 80 - 199.30.25.207 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b 200 0 0 1356 276 500

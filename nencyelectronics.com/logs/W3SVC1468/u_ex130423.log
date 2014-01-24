@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-23 06:00:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-23 06:00:38 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 274 859
+2013-04-23 06:00:44 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.94 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 0 3254 238 6109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-04-23 15:16:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-04-23 15:16:53 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 1390
+2013-04-23 15:16:59 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 0 3254 234 5421

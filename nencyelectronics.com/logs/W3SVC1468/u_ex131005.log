@@ -1,0 +1,38 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-05 00:19:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-05 00:19:18 W3SVC1468 76.72.165.79 GET /Images/thumbnails/dvr1.jpg - 80 - 190.22.17.65 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:24.0)+Gecko/20100101+Firefox/24.0 200 0 0 47923 353 1265
+2013-10-05 00:32:44 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 4631 234 828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-05 11:08:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-05 11:08:02 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 1140
+2013-10-05 11:15:59 W3SVC1468 76.72.165.79 GET /pk.html - 80 - 180.76.5.22 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 404 0 2 1424 229 203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-05 14:27:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-05 14:27:35 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 216.145.5.42 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 297 546
+2013-10-05 14:27:38 W3SVC1468 76.72.165.79 GET / - 80 - 216.145.5.42 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 4631 499 1890
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-05 18:51:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-05 18:51:20 W3SVC1468 76.72.165.79 GET /images/thumbnails/images.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 304 0 0 210 259 968
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-05 19:34:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-05 19:34:51 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.75.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4633 375 1390
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-05 21:00:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-05 21:00:31 W3SVC1468 76.72.165.79 GET /Images/NetworkImage/dlink.jpg - 80 - 66.249.75.174 Googlebot-Image/1.0 304 0 0 211 260 1421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-10-05 22:45:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-10-05 22:45:11 W3SVC1468 76.72.165.79 GET /style.css - 80 - 66.249.75.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1553 243 1109

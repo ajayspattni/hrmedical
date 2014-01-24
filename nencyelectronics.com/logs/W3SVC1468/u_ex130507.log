@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-07 00:49:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-07 00:49:38 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 66.249.76.174 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 270 640
+2013-05-07 00:49:39 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 66.249.76.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 2911 441 1828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-07 04:06:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-07 04:06:04 W3SVC1468 76.72.165.79 GET /robots.txt - 80 - 100.2.26.130 panscient.com 404 0 2 1405 173 640
+2013-05-07 04:06:08 W3SVC1468 76.72.165.79 GET / - 80 - 100.2.26.130 panscient.com 200 0 0 4334 181 2156
+2013-05-07 04:06:09 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 100.2.26.130 panscient.com 406 0 0 1511 210 156
+2013-05-07 04:06:11 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 100.2.26.130 panscient.com 406 0 0 1511 209 93
+2013-05-07 04:06:11 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 100.2.26.130 panscient.com 406 0 0 1511 203 46
+2013-05-07 04:06:13 W3SVC1468 76.72.165.79 GET /index.aspx - 80 - 100.2.26.130 panscient.com 200 0 0 4334 191 46
+2013-05-07 04:06:14 W3SVC1468 76.72.165.79 GET /pxslddetail.aspx - 80 - 100.2.26.130 panscient.com 200 0 0 2784 197 109
+2013-05-07 04:06:17 W3SVC1468 76.72.165.79 GET /sliderengine/amazingslider.js - 80 - 100.2.26.130 panscient.com 406 0 0 1511 210 281
+2013-05-07 04:06:18 W3SVC1468 76.72.165.79 GET /sliderengine/initslider-1.js - 80 - 100.2.26.130 panscient.com 406 0 0 1511 209 156
+2013-05-07 04:06:19 W3SVC1468 76.72.165.79 GET /sliderengine/jquery.js - 80 - 100.2.26.130 panscient.com 406 0 0 1511 203 281
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-05-07 07:38:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-05-07 07:38:29 W3SVC1468 76.72.165.79 GET / - 80 - 66.249.76.174 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) 200 0 0 4632 375 3953
